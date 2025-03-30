@@ -34,7 +34,7 @@ Este projeto tem como objetivo criar um sistema simples de gerenciamento de alun
 
 ### Utilização de funções anônimas e arrow functions.
 
-### Exibição de mensagens via 'alert()' e 'console.log()' ao cadastrar, editar e excluir alunos.
+### Exibição de mensagens via ' alert() ' e ' console.log() ' ao cadastrar, editar e excluir alunos.
 
 ### Implementação de relatórios interativos:
 
