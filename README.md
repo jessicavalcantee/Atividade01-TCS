@@ -2,10 +2,10 @@
 
 ## Tecnologias Utilizadas
 
-*HTML para estrutura do formulário e tabela
-+JavaScript para manipulação da DOM e armazenamento dos dados
-*Git/GitHub para controle de versão
-+Docker para containerização do projeto
+* HTML para estrutura do formulário e tabela
++ JavaScript para manipulação da DOM e armazenamento dos dados
+* Git/GitHub para controle de versão
++ Docker para containerização do projeto
 
 ## Descrição do Projeto
 
@@ -15,20 +15,20 @@ Este projeto tem como objetivo criar um sistema simples de gerenciamento de alun
 
 ### Formulário HTML com os campos:
 
-+Nome
-*Idade.
-+Curso (JavaScript, Python, Java).
-*Nota Final.
-+Cadastro de alunos em uma lista armazenada em memória.
-*Exibição dos alunos em uma tabela.
-+Funcionalidade de edição e exclusão de alunos.
++ Nome
+* Idade.
++ Curso (JavaScript, Python, Java).
+* Nota Final.
++ Cadastro de alunos em uma lista armazenada em memória.
+* Exibição dos alunos em uma tabela.
++ Funcionalidade de edição e exclusão de alunos.
 
 ### Implementação da classe Aluno contendo:
 
-*Atributos: nome, idade, curso, notaFinal.
-+Construtor para inicialização dos dados.
-*Método ´isAprovado()´ para verificar se a notaFinal é maior ou igual a 7.
-+Método ´toString()´ para formatar os dados do aluno.
+* Atributos: nome, idade, curso, notaFinal.
++ Construtor para inicialização dos dados.
+* Método ´isAprovado()´ para verificar se a notaFinal é maior ou igual a 7.
++ Método ´toString()´ para formatar os dados do aluno.
 
 ### Uso de addEventListener para manipulação de eventos.
 
@@ -38,11 +38,11 @@ Este projeto tem como objetivo criar um sistema simples de gerenciamento de alun
 
 ### Implementação de relatórios interativos:
 
-*Listagem de alunos aprovados.
-+Cálculo da média das notas finais.
-*Cálculo da média das idades.
-+Ordenação de alunos por nome.
-*Contagem de alunos por curso.
+* Listagem de alunos aprovados.
++ Cálculo da média das notas finais.
+* Cálculo da média das idades.
++ Ordenação de alunos por nome.
+* Contagem de alunos por curso.
 
 ### Uso dos métodos 'filter', 'map', 'reduce', 'sort' e 'forEach' para manipulação dos dados.
 
