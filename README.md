@@ -27,14 +27,14 @@ Este projeto tem como objetivo criar um sistema simples de gerenciamento de alun
 
 * Atributos: nome, idade, curso, notaFinal.
 + Construtor para inicialização dos dados.
-* Método ´ isAprovado() ´ para verificar se a notaFinal é maior ou igual a 7.
-+ Método ´ toString() ´ para formatar os dados do aluno.
+* Método ` isAprovado()` para verificar se a notaFinal é maior ou igual a 7.
++ Método `toString()` para formatar os dados do aluno.
 
 ### Uso de addEventListener para manipulação de eventos.
 
 ### Utilização de funções anônimas e arrow functions.
 
-### Exibição de mensagens via ' alert() ' e ' console.log() ' ao cadastrar, editar e excluir alunos.
+### Exibição de mensagens via `alert()` e `console.log()` ao cadastrar, editar e excluir alunos.
 
 ### Implementação de relatórios interativos:
 
@@ -44,7 +44,7 @@ Este projeto tem como objetivo criar um sistema simples de gerenciamento de alun
 + Ordenação de alunos por nome.
 * Contagem de alunos por curso.
 
-### Uso dos métodos 'filter', 'map', 'reduce', 'sort' e 'forEach' para manipulação dos dados.
+* Uso dos métodos `filter`, `map`, `reduce`, `sort` e `forEach` para manipulação dos dados.
 
 ## Como Executar o Projeto
 
@@ -54,15 +54,15 @@ Este projeto tem como objetivo criar um sistema simples de gerenciamento de alun
 
 2. Construa a imagem do projeto:
 
-'docker build -t atividade01-web .'
+`docker build -t atividade01-web .`
 
 3. Execute o container:
 
-'docker run -p 8080:80 atividade01-web'
+`docker run -p 8080:80 atividade01-web`
 
-4. Acesse o sistema pelo navegador: http://localhost:8080
+4. Acesse o sistema pelo navegador: `http://localhost:8080`
   
 5. Clone o repositório:
 
-'git clone https://github.com/jessicavalcantee/Atividade01-TCS.git'
+'git clone `https://github.com/jessicavalcantee/Atividade01-TCS.git`
 
