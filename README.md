@@ -27,8 +27,8 @@ Este projeto tem como objetivo criar um sistema simples de gerenciamento de alun
 
 * Atributos: nome, idade, curso, notaFinal.
 + Construtor para inicialização dos dados.
-* Método ´isAprovado()´ para verificar se a notaFinal é maior ou igual a 7.
-+ Método ´toString()´ para formatar os dados do aluno.
+* Método ´ isAprovado() ´ para verificar se a notaFinal é maior ou igual a 7.
++ Método ´ toString() ´ para formatar os dados do aluno.
 
 ### Uso de addEventListener para manipulação de eventos.
 
